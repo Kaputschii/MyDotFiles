@@ -1,0 +1,6 @@
+2023/06/24-22:09:56.970 72e9 Reusing MANIFEST /home/kaputschi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/24-22:09:56.972 72e9 Recovering log #19
+2023/06/24-22:09:56.975 72e9 Reusing old log /home/kaputschi/.config/discord/Local Storage/leveldb/000019.log 
+2023/06/24-22:12:23.212 7551 Level-0 table #23: started
+2023/06/24-22:12:23.250 7551 Level-0 table #23: 1693664 bytes OK
+2023/06/24-22:12:23.255 7551 Delete type=0 #19
